@@ -1,0 +1,3 @@
+#: plugins/publish-embed/plugin.php:13
+msgid "Embed this chart"
+msgstr ""

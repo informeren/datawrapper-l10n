@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: plugins/visualization-data-table/plugin.php:7
+msgid "Data Table"
+msgstr "Datatabel"
+
+#: plugins/visualization-data-table/plugin.php:18
+msgid "No data available in table"
+msgstr "Ingen data tilgængelige i tabellen"
+
+#: plugins/visualization-data-table/plugin.php:19
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Viser _START_ til _END_ af _TOTAL_ elementer"
+
+#: plugins/visualization-data-table/plugin.php:20
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Viser 0 til 0 af 0 elementer"
+
+#: plugins/visualization-data-table/plugin.php:21
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtreret fra _MAX_ totale elementer)"
+
+#: plugins/visualization-data-table/plugin.php:23
+msgid ","
+msgstr ","
+
+#: plugins/visualization-data-table/plugin.php:24
+msgid "Show _MENU_ entries"
+msgstr "Vis _MENU_ elementer"
+
+#: plugins/visualization-data-table/plugin.php:25
+msgid "Loading..."
+msgstr "Indlæser..."
+
+#: plugins/visualization-data-table/plugin.php:26
+msgid "Processing..."
+msgstr "Behandler…"
+
+#: plugins/visualization-data-table/plugin.php:27
+msgid "Search:"
+msgstr "Søg:"
+
+#: plugins/visualization-data-table/plugin.php:28
+msgid "No matching records found"
+msgstr "Ingen matchende rækker fundet"
+
+#: plugins/visualization-data-table/plugin.php:29
+msgid "First"
+msgstr "Første"
+
+#: plugins/visualization-data-table/plugin.php:30
+msgid "Last"
+msgstr "Sidste"
+
+#: plugins/visualization-data-table/plugin.php:31
+msgid "Next"
+msgstr "Næste"
+
+#: plugins/visualization-data-table/plugin.php:32
+msgid "Previous"
+msgstr "Forrige"
+
+#: plugins/visualization-data-table/plugin.php:33
+msgid ": activate to sort column ascending"
+msgstr ": aktivér for at sortere kolonnen stigende"
+
+#: plugins/visualization-data-table/plugin.php:34
+msgid ": activate to sort column descending"
+msgstr ": aktivér for at sortere kolonnen faldende"
+
+#: plugins/visualization-data-table/plugin.php:63
+msgid "Sort table by"
+msgstr "Sortér tabel efter"
+
+#: plugins/visualization-data-table/plugin.php:68
+msgid "Sort ascending"
+msgstr "Sortér stigende"
+
+#: plugins/visualization-data-table/plugin.php:76
+msgid "Make column sortable"
+msgstr "Gør kolonnen sortérbar"
+
+#: plugins/visualization-data-table/plugin.php:81
+msgid "Display content over multiple pages"
+msgstr "Vis indholde over flere sider"
+
+#: plugins/visualization-data-table/plugin.php:85
+msgid "Show filter"
+msgstr "Vis filter"

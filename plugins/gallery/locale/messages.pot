@@ -1,0 +1,42 @@
+#: plugins/gallery/plugin.php:31
+msgid "Gallery"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/gallery__gallery.twig.php:93
+msgid "Chart Gallery"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/gallery__gallery.twig.php:103
+msgid "See what others created with Datawrapper recently"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/gallery__gallery.twig.php:107
+msgid ""
+"Welcome to the public gallery of Datawrapper charts. Here you can see the "
+"nice charts that other users have created recently. Click on the charts to "
+"see the interactive version."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/gallery__show-in-gallery.twig.php:22
+msgid "Show in Gallery"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/gallery__show-in-gallery.twig.php:27
+msgid ""
+"You can show some love to Datawrapper by agreeing to show your visualisation "
+"in our <a href='%GALLERY_URL%'>public gallery</a>"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/gallery__show-in-gallery.twig.php:29
+msgid "This is absolutely optional."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/gallery__show-in-gallery.twig.php:36
+msgid "Yes, show this chart in the gallery"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/gallery__take-a-look.twig.php:22
+msgid ""
+"Want to see what other users created using Datawrapper? Take a look in the "
+"<a href='%GALLERY%'>Gallery</a>!"
+msgstr ""

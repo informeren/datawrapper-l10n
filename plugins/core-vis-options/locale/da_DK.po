@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:49
+msgid "customize colors..."
+msgstr "tilpas farver…"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:70
+msgid "Customize colors..."
+msgstr "Tilpas farver…"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:93
+msgid "Select element(s):"
+msgstr "Vælg element(er):"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:100
+msgid "Select:"
+msgstr "Vælg:"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:104
+msgid "all"
+msgstr "alle"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:108
+msgid "none"
+msgstr "ingen"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:112
+msgid "invert"
+msgstr "omvendt"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:120
+msgid "Choose a color:"
+msgstr "Vælg en farve:"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:125
+msgid ""
+"Please select an element on the left to change colors for individual "
+"elements..."
+msgstr ""
+"Vælg et element til venstre for at skifte farver på individuelle elementer…"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:134
+msgid "Reset"
+msgstr "Nulstil"
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:139
+msgid "Reset all colors"
+msgstr "Nulstil alle farver"

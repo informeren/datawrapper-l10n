@@ -1,0 +1,164 @@
+#: plugins/admin-users/plugin.php:14 plugins/admin-users/plugin.php:58
+msgid "Users"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:51
+msgid "ID"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:57
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:161
+msgid "Name"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:63
+msgid "E-mail"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:69
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:173
+msgid "Created at"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:75
+msgid "Role"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:86
+msgid "Private Plugins"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:109
+msgid "Products"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:134
+msgid "Organizations"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:48
+msgid "email-missing"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:54
+msgid "email-invalid"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:60
+msgid "email-already-exists"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:66
+msgid "password-already-reset"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:75
+msgid "will lose his administrator status. Continue?"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:79
+msgid "will become an administrator. Continue?"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:83
+msgid "will be deleted. Continue?"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:91
+msgid "Search by name or email"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:93
+msgid "Search"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:98
+msgid "Below you find the complete list of users. You can search by email."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:103
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:110
+msgid "Add a user"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:116
+msgid "email"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:124
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:234
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:336
+msgid "Editor"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:128
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:228
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:340
+msgid "Administrator"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:132
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:344
+msgid "Graphic Editor"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:138
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:350
+msgid "System Administrator"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:146
+msgid "Create"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:151
+msgid "Loading ..."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:165
+msgid "Sign-In"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:169
+msgid "Status"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:177
+msgid "Charts"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:183
+msgid "Organization"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:188
+msgid "Actions"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:283
+msgid "edit"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:292
+msgid "resend an invitation"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:300
+msgid "reset the password and send a mail"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:311
+msgid "delete"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:332
+msgid "Pending"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:362
+msgid "save"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:366
+msgid "cancel"
+msgstr ""

@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: plugins/admin-users/plugin.php:14 plugins/admin-users/plugin.php:58
+msgid "Users"
+msgstr "Brugere"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:51
+msgid "ID"
+msgstr "ID"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:57
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:161
+msgid "Name"
+msgstr "Navn"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:63
+msgid "E-mail"
+msgstr "E-mail"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:69
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:173
+msgid "Created at"
+msgstr "Oprettet"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:75
+msgid "Role"
+msgstr "Rolle"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:86
+msgid "Private Plugins"
+msgstr "Private plugins"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:109
+msgid "Products"
+msgstr "Produkter"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-user-detail.twig.php:134
+msgid "Organizations"
+msgstr "Organisationer"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:48
+msgid "email-missing"
+msgstr "E-mail-adressen mangler"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:54
+msgid "email-invalid"
+msgstr "E-mail-adressen er ugyldig"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:60
+msgid "email-already-exists"
+msgstr "E-mail-adressen eksisterer allerede"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:66
+msgid "password-already-reset"
+msgstr "Adgangskoden er allerede blevet nulstillet"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:75
+msgid "will lose his administrator status. Continue?"
+msgstr "mister sin administratorstatus. Fortsæt?"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:79
+msgid "will become an administrator. Continue?"
+msgstr "bliver administrator. Fortsæt?"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:83
+msgid "will be deleted. Continue?"
+msgstr "bliver slettet. Fortsæt?"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:91
+msgid "Search by name or email"
+msgstr "Søg efter navn eller e-mail"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:93
+msgid "Search"
+msgstr "Søg"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:98
+msgid "Below you find the complete list of users. You can search by email."
+msgstr ""
+"Nedenfor finder du den komplette liste af brugere. Du kan søge efter e-mail."
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:103
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:110
+msgid "Add a user"
+msgstr "Tilføj bruger"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:116
+msgid "email"
+msgstr "e-mail"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:124
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:234
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:336
+msgid "Editor"
+msgstr "Redaktør"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:128
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:228
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:340
+msgid "Administrator"
+msgstr "Administrator"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:132
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:344
+msgid "Graphic Editor"
+msgstr "Grafiker"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:138
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:350
+msgid "System Administrator"
+msgstr "Systemadministrator"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:146
+msgid "Create"
+msgstr "Opret"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:151
+msgid "Loading ..."
+msgstr "Indlæser…"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:165
+msgid "Sign-In"
+msgstr "Login"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:169
+msgid "Status"
+msgstr "Status"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:177
+msgid "Charts"
+msgstr "Diagrammer"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:183
+msgid "Organization"
+msgstr "Organisation"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:188
+msgid "Actions"
+msgstr "Handlinger"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:283
+msgid "edit"
+msgstr "redigér"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:292
+msgid "resend an invitation"
+msgstr "gensend invitation"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:300
+msgid "reset the password and send a mail"
+msgstr "nulstil adgangskode og send en mail"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:311
+msgid "delete"
+msgstr "slet"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:332
+msgid "Pending"
+msgstr "Afventer"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:362
+msgid "save"
+msgstr "gem"
+
+#: scripts/tmpl_cache/plugins/admin-users__admin-users.twig.php:366
+msgid "cancel"
+msgstr "annullér"

@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: plugins/visualization-pie-chart/init.php:5
+msgid "Pie chart"
+msgstr "Lagkagediagram"
+
+#: plugins/visualization-pie-chart/init.php:26
+#: plugins/visualization-pie-chart/init.php:71
+msgid "Base color"
+msgstr "Basisfarve"
+
+#: plugins/visualization-pie-chart/init.php:30
+#: plugins/visualization-pie-chart/init.php:97
+msgid "Maximum amount of slices"
+msgstr "Maksimalt antal skiver"
+
+#: plugins/visualization-pie-chart/init.php:40
+msgid "other"
+msgstr "andet"
+
+#: plugins/visualization-pie-chart/init.php:41
+msgid ""
+"Pie charts are intended to show part-of-whole relations, and thus they "
+"<b>cannot be used to display negative numbers</b>. Please consider using a "
+"different chart type instead (eg. a bar chart)."
+msgstr ""
+"Lagkagediagrammer er beregnet til at vise en-del-af-et-hele relationer, og "
+"derfor kan de ikke bruges til at vise negative tal. Du bør overveje at bruge "
+"en anden diagramtype (f.eks. et søjlediagram)."
+
+#: plugins/visualization-pie-chart/init.php:42
+#, php-format
+msgid ""
+"Your data contains <b>more values than can be shown in a pie chart</b>, so "
+"we grouped %count slices into the slice named <i>\"others\"</i>.<p>Why not "
+"use a bar chart to allow better comparison of values?</p>"
+msgstr ""
+"Dine data indeholder flere værdier end der er plads til i et lagkagediagram, "
+"så vi har grupperet %count skiver i en skive kaldet \"andet|. Du bør "
+"overveje at bruge et søjlediagram så værdierne bliver nemmere at forstå."
+
+#: plugins/visualization-pie-chart/init.php:50
+msgid "Donut chart"
+msgstr "Donut-diagram"
+
+#: plugins/visualization-pie-chart/init.php:75
+msgid "Show total value in center"
+msgstr "Vis total i midten"
+
+#: plugins/visualization-pie-chart/init.php:80
+msgid "Use custom total value instead of sum"
+msgstr "Vis brugerdefineret total i stedet for summen"
+
+#: plugins/visualization-pie-chart/init.php:89
+msgid "Custom total value"
+msgstr "Brugerdefineret total"

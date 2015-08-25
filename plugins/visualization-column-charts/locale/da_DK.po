@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: plugins/visualization-column-charts/plugin.php:16
+msgid "Column Chart"
+msgstr "Søjlediagram"
+
+#: plugins/visualization-column-charts/plugin.php:33
+#: plugins/visualization-column-charts/plugin.php:100
+#: plugins/visualization-column-charts/plugin.php:146
+msgid "Base color"
+msgstr "Basisfarve"
+
+#: plugins/visualization-column-charts/plugin.php:37
+#: plugins/visualization-column-charts/plugin.php:104
+#: plugins/visualization-column-charts/plugin.php:150
+msgid "Automatically sort bars"
+msgstr "Sortér søjler automatisk"
+
+#: plugins/visualization-column-charts/plugin.php:41
+#: plugins/visualization-column-charts/plugin.php:108
+#: plugins/visualization-column-charts/plugin.php:154
+msgid "Reverse order"
+msgstr "Omvendt rækkefølge"
+
+#: plugins/visualization-column-charts/plugin.php:45
+#: plugins/visualization-column-charts/plugin.php:112
+#: plugins/visualization-column-charts/plugin.php:158
+msgid "Use different color for negative values"
+msgstr "Brug en anden farve til negative værdier"
+
+#: plugins/visualization-column-charts/plugin.php:52
+msgid "Ignore missing values"
+msgstr "Ignorér manglende værdier"
+
+#: plugins/visualization-column-charts/plugin.php:57
+msgid "Use the same scale for all columns"
+msgstr "Brug den samme skala til alle kolonner"
+
+#: plugins/visualization-column-charts/plugin.php:64
+msgid "Grid lines"
+msgstr "Gitter"
+
+#: plugins/visualization-column-charts/plugin.php:66
+msgid "Automatic"
+msgstr "Automatisk"
+
+#: plugins/visualization-column-charts/plugin.php:67
+msgid "Show"
+msgstr "Vis"
+
+#: plugins/visualization-column-charts/plugin.php:68
+msgid "Hide"
+msgstr "Skjul"
+
+#: plugins/visualization-column-charts/plugin.php:82
+msgid "Grouped Column Chart"
+msgstr "Grupperet søjlediagram"
+
+#: plugins/visualization-column-charts/plugin.php:128
+msgid "Stacked Column Chart"
+msgstr "Stablet søjlediagram"
+
+#: plugins/visualization-column-charts/plugin.php:162
+msgid "Stack percentages"
+msgstr "Stablede procenter"
+
+#: plugins/visualization-column-charts/plugin.php:167
+msgid "Let user switch mode"
+msgstr "Lad brugeren skifte tilstand"
+
+#: plugins/visualization-column-charts/plugin.php:174
+msgid "stack percentages"
+msgstr "stablede procenter"
+
+#: plugins/visualization-column-charts/plugin.php:175
+msgid ""
+"Negative values, as contained in your dataset, cannot be stacked on top of "
+"each other in a stacked column chart. Please consider using a different "
+"chart type instead (eg. a grouped column chart)."
+msgstr ""
+"Negative værdier, som de optræder i dit datasæt, kan ikke stables ovenpå "
+"hinanden i et søjlediagram. Du bør overveje at bruge en anden diagramtype i "
+"stedet (f.eks. et grupperet søjlediagram)."

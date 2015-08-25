@@ -1,0 +1,87 @@
+#: plugins/visualization-data-table/plugin.php:7
+msgid "Data Table"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:18
+msgid "No data available in table"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:19
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:20
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:21
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:23
+msgid ","
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:24
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:25
+msgid "Loading..."
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:26
+msgid "Processing..."
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:27
+msgid "Search:"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:28
+msgid "No matching records found"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:29
+msgid "First"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:30
+msgid "Last"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:31
+msgid "Next"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:32
+msgid "Previous"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:33
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:34
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:63
+msgid "Sort table by"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:68
+msgid "Sort ascending"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:76
+msgid "Make column sortable"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:81
+msgid "Display content over multiple pages"
+msgstr ""
+
+#: plugins/visualization-data-table/plugin.php:85
+msgid "Show filter"
+msgstr ""

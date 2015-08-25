@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: plugins/core-demo-datasets/plugin.php:19
+msgid "Youth Unemployment in Europe"
+msgstr "Ungdomsarbejdsløshed i Europa"
+
+#: plugins/core-demo-datasets/plugin.php:20
+#: plugins/core-demo-datasets/plugin.php:46
+#: plugins/core-demo-datasets/plugin.php:93
+msgid "Line chart"
+msgstr "Kurvediagram"
+
+#: plugins/core-demo-datasets/plugin.php:45
+msgid "US Trade with United Kingdom"
+msgstr "USAs samhandel med Storbritannien"
+
+#: plugins/core-demo-datasets/plugin.php:91
+msgid "Marriages in Germany"
+msgstr "Ægteskaber i Tyskland"
+
+#: plugins/core-demo-datasets/plugin.php:104
+#: plugins/core-demo-datasets/plugin.php:144
+msgid "Year"
+msgstr "År"
+
+#: plugins/core-demo-datasets/plugin.php:104
+msgid "Marriages"
+msgstr "Ægteskaber"
+
+#: plugins/core-demo-datasets/plugin.php:110
+msgid "Fearless Felix: How far did he fall"
+msgstr "Frygtløse Felix: Hvor langt faldt han"
+
+#: plugins/core-demo-datasets/plugin.php:111
+#: plugins/core-demo-datasets/plugin.php:136
+msgid "Bar chart"
+msgstr "Søjlediagram"
+
+#: plugins/core-demo-datasets/plugin.php:143
+msgid "Net borrowing of Germany"
+msgstr "Tysklands nettolåntagning"
+
+#: plugins/core-demo-datasets/plugin.php:145
+msgid "New debt in Bio."
+msgstr "Ny gæld i bio."
+
+#: plugins/core-demo-datasets/plugin.php:151
+msgid "Women in German Parliament"
+msgstr "Kvinder i det Tyske parlament"
+
+#: plugins/core-demo-datasets/plugin.php:152
+msgid "Bar chart (grouped)"
+msgstr "Søjlediagram (grupperet)"
+
+#: plugins/core-demo-datasets/plugin.php:160
+msgid "Party"
+msgstr "Parti"
+
+#: plugins/core-demo-datasets/plugin.php:160
+msgid "Women"
+msgstr "Kvinder"
+
+#: plugins/core-demo-datasets/plugin.php:160
+msgid "Men"
+msgstr "Mænd"
+
+#: plugins/core-demo-datasets/plugin.php:160
+msgid "Total"
+msgstr "Total"

@@ -1,0 +1,3 @@
+#: plugins/admin-themes/init.php:37 plugins/admin-themes/init.php:52
+msgid "Themes"
+msgstr ""

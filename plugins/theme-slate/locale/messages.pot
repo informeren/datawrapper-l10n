@@ -1,0 +1,3 @@
+#: plugins/theme-slate/init.php:5
+msgid "Datawrapper (dark)"
+msgstr ""

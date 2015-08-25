@@ -1,0 +1,78 @@
+#: plugins/visualization-column-charts/plugin.php:16
+msgid "Column Chart"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:33
+#: plugins/visualization-column-charts/plugin.php:100
+#: plugins/visualization-column-charts/plugin.php:146
+msgid "Base color"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:37
+#: plugins/visualization-column-charts/plugin.php:104
+#: plugins/visualization-column-charts/plugin.php:150
+msgid "Automatically sort bars"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:41
+#: plugins/visualization-column-charts/plugin.php:108
+#: plugins/visualization-column-charts/plugin.php:154
+msgid "Reverse order"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:45
+#: plugins/visualization-column-charts/plugin.php:112
+#: plugins/visualization-column-charts/plugin.php:158
+msgid "Use different color for negative values"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:52
+msgid "Ignore missing values"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:57
+msgid "Use the same scale for all columns"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:64
+msgid "Grid lines"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:66
+msgid "Automatic"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:67
+msgid "Show"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:68
+msgid "Hide"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:82
+msgid "Grouped Column Chart"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:128
+msgid "Stacked Column Chart"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:162
+msgid "Stack percentages"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:167
+msgid "Let user switch mode"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:174
+msgid "stack percentages"
+msgstr ""
+
+#: plugins/visualization-column-charts/plugin.php:175
+msgid ""
+"Negative values, as contained in your dataset, cannot be stacked on top of "
+"each other in a stacked column chart. Please consider using a different "
+"chart type instead (eg. a grouped column chart)."
+msgstr ""

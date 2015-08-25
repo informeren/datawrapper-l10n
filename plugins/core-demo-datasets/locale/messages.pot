@@ -1,0 +1,67 @@
+#: plugins/core-demo-datasets/plugin.php:19
+msgid "Youth Unemployment in Europe"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:20
+#: plugins/core-demo-datasets/plugin.php:46
+#: plugins/core-demo-datasets/plugin.php:93
+msgid "Line chart"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:45
+msgid "US Trade with United Kingdom"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:91
+msgid "Marriages in Germany"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:104
+#: plugins/core-demo-datasets/plugin.php:144
+msgid "Year"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:104
+msgid "Marriages"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:110
+msgid "Fearless Felix: How far did he fall"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:111
+#: plugins/core-demo-datasets/plugin.php:136
+msgid "Bar chart"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:143
+msgid "Net borrowing of Germany"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:145
+msgid "New debt in Bio."
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:151
+msgid "Women in German Parliament"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:152
+msgid "Bar chart (grouped)"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:160
+msgid "Party"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:160
+msgid "Women"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:160
+msgid "Men"
+msgstr ""
+
+#: plugins/core-demo-datasets/plugin.php:160
+msgid "Total"
+msgstr ""

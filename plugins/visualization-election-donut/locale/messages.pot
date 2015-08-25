@@ -1,0 +1,11 @@
+#: plugins/visualization-election-donut/init.php:5
+msgid "Election Donut"
+msgstr ""
+
+#: plugins/visualization-election-donut/init.php:21
+msgid "Base color"
+msgstr ""
+
+#: plugins/visualization-election-donut/init.php:25
+msgid "Sort by size"
+msgstr ""

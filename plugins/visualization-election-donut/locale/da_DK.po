@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: plugins/visualization-election-donut/init.php:5
+msgid "Election Donut"
+msgstr "Valg-donut"
+
+#: plugins/visualization-election-donut/init.php:21
+msgid "Base color"
+msgstr "Basisfarve"
+
+#: plugins/visualization-election-donut/init.php:25
+msgid "Sort by size"
+msgstr "Sortér efter størrelse"

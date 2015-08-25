@@ -1,0 +1,27 @@
+#: plugins/visualization-bar-chart/init.php:5
+msgid "Bar Chart"
+msgstr ""
+
+#: plugins/visualization-bar-chart/init.php:22
+msgid "Base color"
+msgstr ""
+
+#: plugins/visualization-bar-chart/init.php:26
+msgid "Autmatically sort bars"
+msgstr ""
+
+#: plugins/visualization-bar-chart/init.php:30
+msgid "Reverse order"
+msgstr ""
+
+#: plugins/visualization-bar-chart/init.php:34
+msgid "Use different color for negative values"
+msgstr ""
+
+#: plugins/visualization-bar-chart/init.php:41
+msgid "Use the same scale for all columns"
+msgstr ""
+
+#: plugins/visualization-bar-chart/init.php:46
+msgid "Filter missing values"
+msgstr ""

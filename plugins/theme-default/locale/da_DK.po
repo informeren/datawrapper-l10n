@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: plugins/theme-default/plugin.php:12
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:84
+msgid "Datawrapper"
+msgstr "Datawrapper"
+
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:55
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:57
+msgid "Source: "
+msgstr "Kilde: "
+
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:74
+msgid "Get the data"
+msgstr "Hent data"
+
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:80
+msgid "Created with"
+msgstr "Bygget med"

@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Morten Wulff <wulff@ratatosk.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da_DK\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: plugins/admin-jobs/plugin.php:12
+msgid "Jobs"
+msgstr "Job"
+
+#: plugins/admin-jobs/plugin.php:33
+msgid "Background Jobs"
+msgstr "Baggrundsjob"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:34
+msgid ""
+"This page shows you the current state of background jobs in Datawrapper."
+msgstr "Denne side viser den aktuelle status for Datawrappers baggrundsjob."
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:42
+msgid "queued jobs"
+msgstr "job i kø"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:44
+msgid "estimated time to finish"
+msgstr "resterende tid"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:48
+msgid "minutes"
+msgstr "minutter"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:54
+msgid "failed jobs"
+msgstr "mislykkede jobs"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:60
+msgid "completed jobs"
+msgstr "færdige jobs"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:122
+msgid "Warning!"
+msgstr "Advarsel!"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:126
+msgid "The following jobs have not been finished properly."
+msgstr "Følgende job blev ikke afsluttet korrekt."
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:134
+msgid "Created"
+msgstr "Oprettet"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:138
+msgid "Type"
+msgstr "Type"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:142
+msgid "User"
+msgstr "Bruger"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:146
+msgid "Chart"
+msgstr "Diagram"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:150
+msgid "Visualization"
+msgstr "Visualisering"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:154
+msgid "Theme"
+msgstr "Tema"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:158
+msgid "Fail Reason"
+msgstr "Fejlårsag"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:232
+msgid "Good news!"
+msgstr "Gode nyheder!"
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:236
+msgid "All jobs have been finished properly."
+msgstr "Alle job er afsluttet korrekt."

@@ -1,0 +1,76 @@
+#: plugins/admin-jobs/plugin.php:12
+msgid "Jobs"
+msgstr ""
+
+#: plugins/admin-jobs/plugin.php:33
+msgid "Background Jobs"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:34
+msgid ""
+"This page shows you the current state of background jobs in Datawrapper."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:42
+msgid "queued jobs"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:44
+msgid "estimated time to finish"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:48
+msgid "minutes"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:54
+msgid "failed jobs"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:60
+msgid "completed jobs"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:122
+msgid "Warning!"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:126
+msgid "The following jobs have not been finished properly."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:134
+msgid "Created"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:138
+msgid "Type"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:142
+msgid "User"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:146
+msgid "Chart"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:150
+msgid "Visualization"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:154
+msgid "Theme"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:158
+msgid "Fail Reason"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:232
+msgid "Good news!"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/admin-jobs__admin-jobs.twig.php:236
+msgid "All jobs have been finished properly."
+msgstr ""

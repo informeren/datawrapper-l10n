@@ -1,0 +1,48 @@
+#: plugins/visualization-pie-chart/init.php:5
+msgid "Pie chart"
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:26
+#: plugins/visualization-pie-chart/init.php:71
+msgid "Base color"
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:30
+#: plugins/visualization-pie-chart/init.php:97
+msgid "Maximum amount of slices"
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:40
+msgid "other"
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:41
+msgid ""
+"Pie charts are intended to show part-of-whole relations, and thus they "
+"<b>cannot be used to display negative numbers</b>. Please consider using a "
+"different chart type instead (eg. a bar chart)."
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:42
+#, php-format
+msgid ""
+"Your data contains <b>more values than can be shown in a pie chart</b>, so "
+"we grouped %count slices into the slice named <i>\"others\"</i>.<p>Why not "
+"use a bar chart to allow better comparison of values?</p>"
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:50
+msgid "Donut chart"
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:75
+msgid "Show total value in center"
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:80
+msgid "Use custom total value instead of sum"
+msgstr ""
+
+#: plugins/visualization-pie-chart/init.php:89
+msgid "Custom total value"
+msgstr ""

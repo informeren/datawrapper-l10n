@@ -1,0 +1,140 @@
+#: plugins/visualization-line-chart/init.php:4
+msgid "Line Chart"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:26
+msgid "Base color"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:30
+msgid "Customize labeling"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:37
+msgid "Direct labeling"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:43
+msgid "Show the labels right nearby the line ends instead of a separate legend"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:47
+msgid "Legend position"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:56
+msgid "right"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:60
+msgid "top"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:64
+msgid "inside left"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:68
+msgid "inside right"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:75
+msgid "Customize lines"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:80
+msgid "Show grid"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:85
+msgid "Connect lines between missing values"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:89
+msgid "Fill area between lines"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:99
+msgid "Fill area below line"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:109
+msgid "Suggest aspect ratio that banks average line slopes to 45"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:110
+msgid ""
+"Adjust the chart height so that the lines are banked to 45 (on average). Can "
+"help to avoid exaggerating and understating of slopes."
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:114
+msgid "Line interpolation"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:116
+msgid "Straight"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:117
+msgid "Curved"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:118
+msgid "Stepped"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:124
+msgid "Customize y-axis"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:128
+msgid "Custom range"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:129
+msgid ""
+"This feature allows you to explicitely extend the y axis to custom values. "
+"Swap min/max to invert the axis."
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:133
+msgid "Scale (y-axis)"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:135
+msgid "linear"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:136
+msgid "logarithmic"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:146
+msgid "Let user change scale"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:156
+msgid "Annotate x axis"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:162
+msgid ""
+"Your chart contains <b>more lines than we can label</b>, so automatic "
+"labeling is turned off. To fix this <ul><li>filter some columns in the data "
+"table in the previous step, or</li><li>use direct labeling and the highlight "
+"feature to label the lines that are important to your story.</li></ul>"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:163
+msgid "Use logarithmic scale"
+msgstr ""
+
+#: plugins/visualization-line-chart/init.php:164
+#, php-format
+msgid ""
+"Some of the <b>dates in your x-axis could not be parsed</b>, hence the line "
+"chart cannot display a proper date axis. To fix this<ul><li>return to the "
+"previous step and clean your date column.</li><li><a href=\"%s\">Read more "
+"about how to do this.</a></li></ul>"
+msgstr ""

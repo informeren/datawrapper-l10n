@@ -1,0 +1,17 @@
+#: plugins/theme-default/plugin.php:12
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:84
+msgid "Datawrapper"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:55
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:57
+msgid "Source: "
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:74
+msgid "Get the data"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/theme-default__default.twig.php:80
+msgid "Created with"
+msgstr ""

@@ -1,0 +1,45 @@
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:49
+msgid "customize colors..."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:70
+msgid "Customize colors..."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:93
+msgid "Select element(s):"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:100
+msgid "Select:"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:104
+msgid "all"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:108
+msgid "none"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:112
+msgid "invert"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:120
+msgid "Choose a color:"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:125
+msgid ""
+"Please select an element on the left to change colors for individual "
+"elements..."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:134
+msgid "Reset"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/core-vis-options__colorselector.twig.php:139
+msgid "Reset all colors"
+msgstr ""
