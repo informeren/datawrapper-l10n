@@ -71,6 +71,8 @@ msgid ""
 "Think about it one more time. Have you considered all the consequences of "
 "deleting your account?"
 msgstr ""
+"Tænk over det én gang til. Har du overvejet konsekvenserne af at slette din "
+"konto?"
 
 #: scripts/tmpl_cache/account__delete.twig.php:86
 msgid "You cannot login and logout anymore."
@@ -85,6 +87,8 @@ msgid ""
 "Note that this will only delete your account. Your charts will not be "
 "removed. If you want to remove your charts, please do it manually."
 msgstr ""
+"Bemærk at dette kun sletter din konto. Dine diagrammer bliver ikke fjernet. "
+"Hvis du ønsker at fjerne dine diagrammer, skal du gøre det manuelt."
 
 #: scripts/tmpl_cache/account__delete.twig.php:100
 msgid "Please enter your password to confirm the deletion request:"
@@ -125,6 +129,8 @@ msgstr "Velkommen til Datawrapper!"
 msgid ""
 "Hi, good to see you. Now please pick a password to complete the sign up."
 msgstr ""
+"Hej, godt at se dig. Vælg venligst en adgangskode for at færdiggøre "
+"tilmeldingen."
 
 #: scripts/tmpl_cache/account__invite.twig.php:90
 #: scripts/tmpl_cache/account__set-password.twig.php:68
@@ -154,6 +160,8 @@ msgid ""
 "For security reasons we ask you to provide your current password. Please "
 "make sure you use a strong password."
 msgstr ""
+"Af sikkerhedshensyn skal du angive din nuværende adgangskode. Sørg for at "
+"bruge en stærk adgangskode."
 
 #: scripts/tmpl_cache/account__password.twig.php:46
 msgid "Current Password"
@@ -185,6 +193,8 @@ msgid ""
 "Filling out your profile is optional. If you do, you can display these "
 "information below the charts you publish."
 msgstr ""
+"Det er valgfrit at udfylde din profil. Hvis du gør det, kan du vise disse "
+"oplysninger på de diagrammmer, som du udgiver."
 
 #: scripts/tmpl_cache/account__profile.twig.php:60
 msgid "E-Mail"
@@ -199,6 +209,8 @@ msgid ""
 "This is the email address which you use as login and to which we send "
 "notification emails."
 msgstr ""
+"Dette er e-mail-adressen, som du bruger til at logge ind med og som vi "
+"sender notifikationer til."
 
 #: scripts/tmpl_cache/account__profile.twig.php:92
 msgid "Name"
@@ -213,6 +225,9 @@ msgid ""
 "Add a website that contains more information about you (e.g. your blog). "
 "Optionally you can display these information below you published charts."
 msgstr ""
+"Tilføj en hjemmeside der indeholder flere oplysninger om dig (f.eks. din "
+"blog). Du kan vælge at vise disse oplysninger under de diagrammer, som du "
+"udgiver."
 
 #: scripts/tmpl_cache/account__profile.twig.php:121
 msgid "Twitter/Facebook/etc"
@@ -233,15 +248,15 @@ msgstr "Nulstil din adgangskode"
 
 #: scripts/tmpl_cache/account__reset-password.twig.php:41
 msgid "On this page you are able to reset your password."
-msgstr ""
+msgstr "På denne side kan du nulstille din adgangskode."
 
 #: scripts/tmpl_cache/account__reset-password.twig.php:50
 msgid "Reset Code"
-msgstr ""
+msgstr "Nulstillingskode"
 
 #: scripts/tmpl_cache/account__reset-password.twig.php:59
 msgid "This reset token is valid."
-msgstr ""
+msgstr "Nulstillingskoden er gyldig."
 
 #: scripts/tmpl_cache/account__reset-password.twig.php:68
 msgid "Now please enter a new password."
@@ -249,7 +264,7 @@ msgstr "Indtast venligst en ny adgangskode."
 
 #: scripts/tmpl_cache/account__reset-password.twig.php:70
 msgid "The password should contain at least four characters."
-msgstr ""
+msgstr "Adgangskoden skal indeholde mindst fire tegn."
 
 #: scripts/tmpl_cache/account__reset-password.twig.php:87
 msgid "Password (repeat)"
@@ -264,6 +279,8 @@ msgid ""
 "Congrats! Your password has been changed. You can log in with your new "
 "password now."
 msgstr ""
+"Tillykke! Din adgangskode er blevet skiftet. Du kan nu logge ind med din nye "
+"adgangskode."
 
 #: scripts/tmpl_cache/account__reset-password.twig.php:117
 #: scripts/tmpl_cache/login.twig.php:66 lib/utils/add_header_vars.php:123
@@ -297,6 +314,8 @@ msgid ""
 "This chart belongs to <a href='/admin/charts/%uid'>%email</a>. Great power "
 "comes with great responsibility, so be careful with what you're doing!"
 msgstr ""
+"Dette diagram tilhører <a href='/admin/charts/%uid'>%email</a>. Vær "
+"forsigtig med hvad du foretager dig!"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:62
 msgid "Make sure the data looks right"
@@ -308,6 +327,8 @@ msgid ""
 "table number columns should be shown in blue, dates in green and text in "
 "black."
 msgstr ""
+"Kontrollér at Datawrapper fortolker dine data korrekt. I tabellen bør tal "
+"være vist med blåt, datoer med grønt og tekst med sort."
 
 #: scripts/tmpl_cache/chart__describe.twig.php:74
 msgid "First row as label"
@@ -343,102 +364,102 @@ msgstr "Talformat"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:153
 msgid "Divide numbers by"
-msgstr ""
+msgstr "Dividér tal med"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:161
 msgid "1000"
-msgstr ""
+msgstr "1000"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:165
 msgid "1 million"
-msgstr ""
+msgstr "1 million"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:169
 msgid "1 billion"
-msgstr ""
+msgstr "1 billion"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:174
 msgid "1 hundredth (deci)"
-msgstr ""
+msgstr "1 hundrededel (deci)"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:178
 msgid "1 thousandth (milli)"
-msgstr ""
+msgstr "1 tusindedel (milli)"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:182
 msgid "1 millionth (micro)"
-msgstr ""
+msgstr "1 milliontedel (micro)"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:186
 msgid "1 billionth (nano)"
-msgstr ""
+msgstr "1 billiontedel (nano)"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:190
 msgid "1 trillionth (pico)"
-msgstr ""
+msgstr "1 trilliontedel (pico)"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:199
 msgid "Round numbers to"
-msgstr ""
+msgstr "Afrund tal til"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:206
 msgid "keep original"
-msgstr ""
+msgstr "behold original"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:210
 msgid "Decimal places"
-msgstr ""
+msgstr "Decimaler"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:232
 msgid "Significant digits"
-msgstr ""
+msgstr "Betydende cifre"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:259
 msgid "Prepend/Append"
-msgstr ""
+msgstr "Prefix/suffix"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:272
 msgid "Hide column"
-msgstr ""
+msgstr "Skjul kolonne"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:278
 msgid "Hide column from visualization"
-msgstr ""
+msgstr "Skjul kolonne fra visualisering"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:289
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:235
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:239
 msgid "Back"
-msgstr ""
+msgstr "Tilbage"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:293
 msgid "Revert data changes"
-msgstr ""
+msgstr "Gendan data"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:295
 msgid "Revert"
-msgstr ""
+msgstr "Gendan"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:299
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:288
 msgid "Proceed"
-msgstr ""
+msgstr "Fortsæt"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:314
 msgid "Transpose data table"
-msgstr ""
+msgstr "Forskyd datatabel"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:318
 msgid "Customize column format"
-msgstr ""
+msgstr "Tilpas kolonneformat"
 
 #: scripts/tmpl_cache/chart__publish.twig.php:65
 msgid "What do you want to do with this chart?"
-msgstr ""
+msgstr "Hvad ønsker du at gøre med dette diagram?"
 
 #: scripts/tmpl_cache/chart__publish.twig.php:150
 msgid "Congratulations, you created your first chart!"
-msgstr ""
+msgstr "Tillykke, du har oprettet dit første diagram!"
 
 #: scripts/tmpl_cache/chart__publish.twig.php:155
 msgid ""
@@ -446,22 +467,25 @@ msgid ""
 "free and all you need is a valid email address. The chart you just created "
 "will be transfered to your new account."
 msgstr ""
+"For at kunne indlejre diagrammet skal du oprette en konto. Det er gratis og "
+"alt du behøver er en gyldig e-mail-adresse. Diagrammet, som du lige har "
+"oprettet, bliver flyttet til din nye konto."
 
 #: scripts/tmpl_cache/chart__publish.twig.php:160
 msgid "Create an account / sign in"
-msgstr ""
+msgstr "Opret en konto / log ind"
 
 #: scripts/tmpl_cache/chart__publish.twig.php:209
 msgid "Create another graphic"
-msgstr ""
+msgstr "Opret et nyt diagram"
 
 #: scripts/tmpl_cache/chart__publish.twig.php:214
 msgid "Return to visualise step"
-msgstr ""
+msgstr "Tilbage til visualiseringstrinnet"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:52
 msgid "It all starts with your data..."
-msgstr ""
+msgstr "Det hele starter med dine data…"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:56
 msgid ""
@@ -469,77 +493,82 @@ msgid ""
 "paste it in the text field on the right. You can also upload a CSV file from "
 "your computer."
 msgstr ""
+"Vælg dine data (inkl. overskriftsrække/-kolonne) i Excel eller OpenOffice og "
+"indsæt den i tekstfeltet til højre. Du kan også uploade en CSV-fil fra din "
+"computer."
 
 #: scripts/tmpl_cache/chart__upload.twig.php:58
 msgid "Learn more about how to upload your data"
-msgstr ""
+msgstr "Lær mere om hvordan du uploader dine data"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:65
 msgid ""
 "If you just want to try Datawrapper, heres a list of some example datasets "
 "you can use:"
 msgstr ""
+"Hvis du bare vil prøve Datawrapper er her en liste af datasæt, som du kan "
+"bruge:"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:70
 msgid "Select a sample dataset"
-msgstr ""
+msgstr "Vælg et datasæt"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:120
 #: scripts/tmpl_cache/chart__upload.twig.php:144
 msgid "drop your csv file here "
-msgstr ""
+msgstr "drop din csv-fil her "
 
 #: scripts/tmpl_cache/chart__upload.twig.php:122
 msgid "Paste your copied data here..."
-msgstr ""
+msgstr "Indsæt dine kopierede data her…"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:130
 msgid "Upload and continue"
-msgstr ""
+msgstr "Upload og fortsæt"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:149
 msgid "..or upload a CSV file"
-msgstr ""
+msgstr "…eller upload en CSV-fil"
 
 #: scripts/tmpl_cache/chart__visualize__annotate.twig.php:23
 msgid "Annotate your chart"
-msgstr ""
+msgstr "Tilføj noter til dit diagram"
 
 #: scripts/tmpl_cache/chart__visualize__annotate.twig.php:29
 msgid "Select annotation type"
-msgstr ""
+msgstr "Vælg notetype"
 
 #: scripts/tmpl_cache/chart__visualize__highlight.twig.php:24
 msgid "Highlight the most import elements (optional)"
-msgstr ""
+msgstr "Fremhæv de vigtigste elementer (valgfrit)"
 
 #: scripts/tmpl_cache/chart__visualize__highlight.twig.php:30
 msgid "select element"
-msgstr ""
+msgstr "vælg element"
 
 #: scripts/tmpl_cache/chart__visualize__options.twig.php:30
 msgid "Initial row to display"
-msgstr ""
+msgstr "Første række der skal vises"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:26
 msgid "Chart type"
-msgstr ""
+msgstr "Diagramtype"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:30
 msgid "Refine"
-msgstr ""
+msgstr "Forfin"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:34
 msgid "Annotate"
-msgstr ""
+msgstr "Tilføj noter"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:38
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:92
 msgid "Hint"
-msgstr ""
+msgstr "Tip"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:94
 msgid ""
@@ -547,64 +576,69 @@ msgid ""
 "<a href='#' id='btn-transpose'><img src='/static/css/chart-editor/transpose."
 "png' /> transpose the data</a>."
 msgstr ""
+"Hvis visualiseringen ikke ser ud som du forventede, kan du prøve at <a "
+"href='#' id='btn-transpose'><img src='/static/css/chart-editor/transpose."
+"png' />forskyde dine data</a>."
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:109
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:115
 msgid "Description"
-msgstr ""
+msgstr "Beskrivelse"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:121
 msgid "Notes"
-msgstr ""
+msgstr "Noter"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:140
 msgid "Where did you get the data?"
-msgstr ""
+msgstr "Hvor fandt du data?"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:146
 msgid "Source name"
-msgstr ""
+msgstr "Kilde"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:150
 msgid "name of the organisation"
-msgstr ""
+msgstr "organisationens navn"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:156
 msgid "Source URL"
-msgstr ""
+msgstr "Kilde-URL"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:160
 msgid "URL of the dataset"
-msgstr ""
+msgstr "Datasættets URL"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:197
 msgid "Select layout:"
-msgstr ""
+msgstr "Vælg layout:"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:292
 msgid "Publish"
-msgstr ""
+msgstr "Udgiv"
 
 #: scripts/tmpl_cache/chart__visualize.twig.php:115
 msgid "Resize to: "
-msgstr ""
+msgstr "Størrelse: "
 
 #: scripts/tmpl_cache/core.twig.php:67
 msgid ""
 "Datawrapper is an open source tool helping everyone to create simple, "
 "correct and embeddable charts in minutes."
 msgstr ""
+"Datawrapper er et open source værktøj som hjælper alle med at oprette simple "
+"diagrammer, der er nemme at indlejre."
 
 #: scripts/tmpl_cache/core.twig.php:71
 msgid "Mirko Lorenz, Nicolas Kayser-Bril, Gregor Aisch"
-msgstr ""
+msgstr "Mirko Lorenz, Nicolas Kayser-Bril, Gregor Aisch"
 
 #: scripts/tmpl_cache/core.twig.php:223
 msgid "Your browser is not supported"
-msgstr ""
+msgstr "Din browser er ikke understøttet"
 
 #: scripts/tmpl_cache/core.twig.php:227
 msgid ""
@@ -615,7 +649,7 @@ msgstr ""
 
 #: scripts/tmpl_cache/core.twig.php:257
 msgid "Back to top"
-msgstr ""
+msgstr "Tilbage til toppen"
 
 #: scripts/tmpl_cache/core.twig.php:314
 msgid ""
@@ -623,123 +657,138 @@ msgid ""
 "\">open source</a> project by <a href=\"http://abzv.de\">ABZV</a> - a German "
 "training institution for newspaper journalists."
 msgstr ""
+"Datawrapper er et <a href=\"https://github.com/datawrapper/datawrapper"
+"\">open source</a> projekt af <a href=\"http://abzv.de\">ABZV</a> - en Tysk "
+"uddannelsesinstitution for avisjournalister."
 
 #: scripts/tmpl_cache/error.twig.php:55
 msgid "So, what can I do now?"
-msgstr ""
+msgstr "Nå, hvad kan jeg gøre nu?"
 
 #: scripts/tmpl_cache/error.twig.php:82
 msgid "Resturn to the Datawrapper <a href='/'>homepage</a>."
-msgstr ""
+msgstr "Tilbage til Datawrappers <a href='/'>forside</a>."
 
 #: scripts/tmpl_cache/home-login.twig.php:34
 msgid "Try Datawrapper now!"
-msgstr ""
+msgstr "Prøv Datawrapper nu!"
 
 #: scripts/tmpl_cache/home-login.twig.php:39
 msgid ""
 "Looking for the old beta version of Datawrapper?<br />It's still available "
 "at <a href='http://beta.datawrapper.de'>beta.datawrapper.de</a>"
 msgstr ""
+"Leder du efter den gamle betaversion af Datawrapper? Den er stadig "
+"tilgængelig på <a href='http://beta.datawrapper.de'>beta.datawrapper.de</a>."
 
 #: scripts/tmpl_cache/home-login.twig.php:48
 msgid "Welcome back!"
-msgstr ""
+msgstr "Velkommen tilbage!"
 
 #: scripts/tmpl_cache/home-login.twig.php:53
 msgid "Create New Chart"
-msgstr ""
+msgstr "Opret nyt diagram"
 
 #: scripts/tmpl_cache/home-login.twig.php:55
 msgid "Wrap again!"
-msgstr ""
+msgstr "Wrap igen!"
 
 #: scripts/tmpl_cache/home-login.twig.php:64
 msgid "See what you created so far."
-msgstr ""
+msgstr "Se hvad du har lavet indtil videre."
 
 #: scripts/tmpl_cache/home-login.twig.php:70
 msgid "Settings"
-msgstr ""
+msgstr "Indstillinger"
 
 #: scripts/tmpl_cache/home-login.twig.php:72
 msgid "Edit your personal information."
-msgstr ""
+msgstr "Redigér dine personlige oplysninger."
 
 #: scripts/tmpl_cache/home-login.twig.php:76
 msgid "Logout"
-msgstr ""
+msgstr "Log ud"
 
 #: scripts/tmpl_cache/login-page.twig.php:118
 msgid "Welcome to Datawrapper"
-msgstr ""
+msgstr "Velkommen til Datawrapper"
 
 #: scripts/tmpl_cache/login.twig.php:48
 msgid ""
 "We're glad to see you again. Login to access your charts, and create new "
 "ones."
 msgstr ""
+"Vi er glade for at se dig igen. Log ind for at tilgå dine diagrammer og "
+"oprette nye af slagsen."
 
 #: scripts/tmpl_cache/login.twig.php:54 scripts/tmpl_cache/login.twig.php:113
 #: scripts/tmpl_cache/setup.twig.php:131
 msgid "email"
-msgstr ""
+msgstr "e-mail"
 
 #: scripts/tmpl_cache/login.twig.php:72
 msgid "Send new password"
-msgstr ""
+msgstr "Send ny adgangskode"
 
 #: scripts/tmpl_cache/login.twig.php:80
 msgid "Remember login?"
-msgstr ""
+msgstr "Husk login?"
 
 #: scripts/tmpl_cache/login.twig.php:85
 msgid "Can't recall your password?"
-msgstr ""
+msgstr "Har du glemt din adgangskode?"
 
 #: scripts/tmpl_cache/login.twig.php:89
 msgid "Return to login..."
-msgstr ""
+msgstr "Tilbage til login…"
 
 #: scripts/tmpl_cache/login.twig.php:103
 msgid "Create a new account"
-msgstr ""
+msgstr "Opret en ny konto"
 
 #: scripts/tmpl_cache/login.twig.php:107
 msgid ""
 "Datawrapper is 100&#37; free and creating an account takes less than a "
 "minute. Just enter your email and pick a password, and you're done!"
 msgstr ""
+"Datawrapper er 100% gratis og det tager mindre en et minut at oprette en "
+"konto. Indtast din e-mail-adresse, vælg en adgangskode, og så er du i gang."
 
 #: scripts/tmpl_cache/login.twig.php:130
 msgid "Sign Up"
-msgstr ""
+msgstr "Tilmeld"
 
 #: scripts/tmpl_cache/login.twig.php:157
 msgid "Alternatively you can sign in via: "
-msgstr ""
+msgstr "Alternativt kan du logge ind via: "
 
 #: scripts/tmpl_cache/messages.twig.php:32
 msgid ""
 "Watch out: Your chart needs more space. To get rid of the scrollbars just "
 "[resize iFrame to chart]"
 msgstr ""
+"Giv agt: Dit diagram har brug for mere plads. Du kan slippe af med "
+"rullebjælkerne ved at ændre størrelsen på diagrammets iframe."
 
 #: scripts/tmpl_cache/messages.twig.php:42
 msgid ""
 "Your password doesn't meet our security guidelines. Please provide at least "
 "4 characters."
 msgstr ""
+"Din adgangskode lever ikke op til vores sikkerhedsretninglinjer. Indtast "
+"venligst minimum fire tegn."
 
 #: scripts/tmpl_cache/messages.twig.php:47
 msgid "The password and the repeated password must not differ."
-msgstr ""
+msgstr "Adgangskoden og den gentagne adgangskode må ikke være forskellige."
 
 #: scripts/tmpl_cache/messages.twig.php:52
 msgid ""
 "Awesome charts need awesome data. If you just want to try out things you can "
 "select one of our sample datasets."
 msgstr ""
+"Gode diagrammer kræver gode data. Hvis du bare vil lege lidt kan du vælge et "
+"af vores datasæt som udgangspunkt."
 
 #: scripts/tmpl_cache/messages.twig.php:57
 msgid ""
@@ -747,109 +796,118 @@ msgid ""
 "type <b>%type</b> to populate axis <i>%key</i>. Please make sure that your "
 "data is recognized correctly in the previous step."
 msgstr ""
+"<h4>Utilstrækkelige data</h4>Visualiseringen kræver mindst én kolonne af "
+"typen <b>%type</b> for at kunne befolke aksen <i>%key</i>. Kontrollér at "
+"dine data bliver fortolket korrekt på det forrige trin."
 
 #: scripts/tmpl_cache/messages.twig.php:62
 msgid ""
 "Your changes have been saved. In the [Check & Describe] step you can restore "
 "the original dataset using the <b>revert</b> button."
 msgstr ""
+"Dine ændringer er blevt gemt. Under [Kontrollér] kan du gendanne det "
+"originale datasær ved at klikke på knappen <b>gendan</b>."
 
 #: scripts/tmpl_cache/modal.twig.php:35
 msgid "Close"
-msgstr ""
+msgstr "Luk"
 
 #: scripts/tmpl_cache/mycharts.twig.php:58
 #, php-format
 msgid "Charts by %s"
-msgstr ""
+msgstr "Diagrammer af %s"
 
 #: scripts/tmpl_cache/mycharts.twig.php:92
 msgid "Filter"
-msgstr ""
+msgstr "Filtrér"
 
 #: scripts/tmpl_cache/mycharts.twig.php:99
 msgid "Search"
-msgstr ""
+msgstr "Søg"
 
 #: scripts/tmpl_cache/mycharts.twig.php:110
 msgid "By Status"
-msgstr ""
+msgstr "Efter status"
 
 #: scripts/tmpl_cache/mycharts.twig.php:160
 msgid "By Month"
-msgstr ""
+msgstr "Efter måned"
 
 #: scripts/tmpl_cache/mycharts.twig.php:210
 msgid "By Visualisation"
-msgstr ""
+msgstr "Efter visualisering"
 
 #: scripts/tmpl_cache/mycharts.twig.php:260
 msgid "By Layout"
-msgstr ""
+msgstr "Efter layout"
 
 #: scripts/tmpl_cache/mycharts.twig.php:384
 msgid "Edit"
-msgstr ""
+msgstr "Redigér"
 
 #: scripts/tmpl_cache/mycharts.twig.php:390
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikér"
 
 #: scripts/tmpl_cache/mycharts.twig.php:395
 msgid "Delete"
-msgstr ""
+msgstr "Slet"
 
 #: scripts/tmpl_cache/mycharts.twig.php:417
 msgid "No charts here, yet"
-msgstr ""
+msgstr "Ingen diagrammer her endnu"
 
 #: scripts/tmpl_cache/mycharts.twig.php:421
 msgid "Why not <a href='/chart/create'>create a new chart now</a>?"
-msgstr ""
+msgstr "Hvorfor ikke <a href=\"/chart/create\">oprette et nyt diagram nu</a>?"
 
 #: scripts/tmpl_cache/mycharts.twig.php:449
 msgid "Switch User"
-msgstr ""
+msgstr "Skift bruger"
 
 #: scripts/tmpl_cache/mycharts.twig.php:547
 msgid ""
 "Do you really want to delete the chart? Note that after deleting this chart "
 "won't be embedable any more."
 msgstr ""
+"Ønsker du virkelig at slette dette diagram? Bemærk at når diagrammet er "
+"slettet kan det ikke længere indlejres."
 
 #: scripts/tmpl_cache/setup.twig.php:125
 msgid "Create Admin Account"
-msgstr ""
+msgstr "Opret administratorkonto"
 
 #: scripts/tmpl_cache/theme-core.twig.php:147
 msgid "Fullscreen"
-msgstr ""
+msgstr "Fuldskærm"
 
 #: scripts/tmpl_cache/utils.twig.php:224 lib/utils/add_header_vars.php:123
 msgid "Login / Sign Up"
-msgstr ""
+msgstr "Log ind / tilmeld"
 
 #: scripts/tmpl_cache/utils.twig.php:230
 msgid "Try it now!"
-msgstr ""
+msgstr "Prøv det nu!"
 
 #: scripts/tmpl_cache/utils.twig.php:237
 msgid "Create a Chart"
-msgstr ""
+msgstr "Opret et diagram"
 
 #: lib/api/auth.php:37
 msgid "The password is incorrect."
-msgstr ""
+msgstr "Adgangskoden er forkert!"
 
 #: lib/api/auth.php:40 lib/api/auth.php:108 lib/api/auth.php:190
 msgid "The email is not registered yet."
-msgstr ""
+msgstr "E-mail-adressen er ikke registreret endnu."
 
 #: lib/api/auth.php:75
 msgid ""
 "The password reset email has already been sent. Please contact an <a href="
 "\"mailto:hello@datawrapper.de\">administrator</a>."
 msgstr ""
+"Mail om nulstilling af adgangskode er allerede blevet sendt. Kontakt "
+"venligst en <a href=\"mailto:hello@datawrapper.de\">administrator</a>."
 
 #: lib/api/auth.php:80
 msgid ""
@@ -857,14 +915,17 @@ msgid ""
 "emails to it. Please contact an <a href=\"mailto:hello@datawrapper.de"
 "\">administrator</a>."
 msgstr ""
+"Du har ikke aktiveret denne e-mail-adresse endnu, så vi kan ikke trygt sende "
+"mail til den. Kontakt venligst en <a href=\"mailto:hello@datawrapper.de"
+"\">administrator</a>."
 
 #: lib/api/auth.php:97
 msgid "Datawrapper: You requested a reset of your password"
-msgstr ""
+msgstr "Datawrapper: Du har bedt om at få nulstillet din adgangskode"
 
 #: lib/api/auth.php:105 lib/api/auth.php:188
 msgid "You should soon receive an email with further instructions."
-msgstr ""
+msgstr "Du modtager snart en e-mail med yderligere instruktioner."
 
 #: lib/api/auth.php:127
 msgid ""
@@ -872,41 +933,46 @@ msgid ""
 "\"mailto:%support_email%\">contact an administrator</a> to proceed with your "
 "account activation."
 msgstr ""
+"Du har allerede gensendt aktiverings-mailen tre gange. Kontakt venligst <a "
+"href=\"mailto:%support_email%\">en administrator</a> for at få aktiveret din "
+"konto."
 
 #: lib/api/auth.php:143 lib/api/users.php:118
 msgid "Datawrapper: Please activate your email address"
-msgstr ""
+msgstr "Datawrapper: Aktivér venligst din e-mail-adresse"
 
 #: lib/api/auth.php:151
 msgid "The activation email has been send to your email address, again."
-msgstr ""
+msgstr "Aktiverings-mailen er blevet sendt til din e-mail-adresse igen."
 
 #: lib/api/auth.php:154
 msgid "You're account is probably already activated."
-msgstr ""
+msgstr "Din konto er sikker allerede aktiveret."
 
 #: lib/api/auth.php:169 lib/api/auth.php:204
 msgid ""
 "This activation token is invalid. Your email address is probably already "
 "activated."
 msgstr ""
+"Denne aktiveringskode er ugyldig. Din e-mail-adresse er sikkert allerede "
+"aktiveret."
 
 #: lib/api/auth.php:181
 msgid "You have been invited to Datawrapper!"
-msgstr ""
+msgstr "Du er blevet inviteret til Datawrapper!"
 
 #: lib/api/auth.php:206
 msgid "You must enter a password."
-msgstr ""
+msgstr "Du skal indtaste en adgangskode."
 
 #: lib/api/auth.php:208
 msgid "Both passwords must be the same."
-msgstr ""
+msgstr "Begge adgangskoder skal være ens."
 
 #: lib/api/users.php:104
 #, php-format
 msgid "You have been invited to Datawrapper on %s"
-msgstr ""
+msgstr "Du er blevet inviteret til Datawrapper på %s"
 
 #: lib/api/users.php:130
 msgid ""
@@ -917,16 +983,24 @@ msgid ""
 "Cheers,\n"
 "Datawrapper"
 msgstr ""
+"Hej %name%,\n"
+"\n"
+"Velkommen til din nye Datawrapper konto.\n"
+"\n"
+"Bedste hilsner,\n"
+"Datawrapper"
 
 #: lib/api/users.php:177
 msgid ""
 "The password could not be changed because your old password was not entered "
 "correctly."
 msgstr ""
+"Adgangskoden kunne ikke ændres fordi den gamle adgangskode ikke blev "
+"indtastet korrekt."
 
 #: lib/api/users.php:195
 msgid "Datawrapper: You requested a change of your email address"
-msgstr ""
+msgstr "Datawrapper: Du har bedt om at få ændret din e-mail-adresse"
 
 #: lib/api/users.php:210
 msgid ""
@@ -939,65 +1013,65 @@ msgstr ""
 #: lib/api/users.php:213
 #, php-format
 msgid "The email address <b>%s</b> already exists."
-msgstr ""
+msgstr "E-mail-adressen <b>%s</b> findes allerede."
 
 #: lib/api/users.php:216
 #, php-format
 msgid "The email address <b>%s</b> is invalid."
-msgstr ""
+msgstr "E-mail-adressen <b>%s</b> er ugyldig."
 
 #: lib/api/users.php:246
 msgid "This just worked fine. Your profile has been updated."
-msgstr ""
+msgstr "Det gik efter planen. Din profil er blevet opdateret."
 
 #: lib/api/users.php:294
 msgid "The password you entered is not correct."
-msgstr ""
+msgstr "Den indtastede adgangskode er ikke korrekt."
 
 #: lib/api/users.php:317
 msgid "The password must not be empty."
-msgstr ""
+msgstr "Adgangskoden må ikke være tom."
 
 #: lib/api/users.php:320
 msgid "The supplied token for password resetting is invalid."
-msgstr ""
+msgstr "Den angivne kode til nulstilling af adgangskoden er ugyldig."
 
 #: lib/core/build/classes/datawrapper/ChartQuery.php:39
 msgid "Insert title here"
-msgstr ""
+msgstr "Indsæt titel her"
 
 #: lib/core/build/classes/datawrapper/ChartQuery.php:102
 msgid "Copy"
-msgstr ""
+msgstr "Kopiér"
 
 #: lib/core/build/classes/datawrapper/Product.php:94
 msgid "one-time"
-msgstr ""
+msgstr "én gang"
 
 #: lib/core/build/classes/datawrapper/Product.php:99
 msgid "daily"
-msgstr ""
+msgstr "dagligt"
 
 #: lib/core/build/classes/datawrapper/Product.php:100
 msgid "monthly"
-msgstr ""
+msgstr "månedligt"
 
 #: lib/core/build/classes/datawrapper/Product.php:101
 msgid "yearly"
-msgstr ""
+msgstr "årligt"
 
 #: lib/core/build/classes/datawrapper/Product.php:106
 #, php-format
 msgid "every %d %s"
-msgstr ""
+msgstr "hver %d %s"
 
 #: lib/core/build/classes/datawrapper/Product.php:106
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #: lib/core/build/classes/datawrapper/User.php:92
 msgid "User"
-msgstr ""
+msgstr "Bruger"
 
 #: lib/templates/activation-email.php:7
 msgid ""
@@ -1089,43 +1163,43 @@ msgstr ""
 
 #: lib/utils/add_editor_nav.php:6
 msgid "Upload Data"
-msgstr ""
+msgstr "Upload"
 
 #: lib/utils/add_editor_nav.php:7
 msgid "Check & Describe"
-msgstr ""
+msgstr "Kontrol"
 
 #: lib/utils/add_editor_nav.php:8
 msgid "Visualize"
-msgstr ""
+msgstr "Design"
 
 #: lib/utils/add_editor_nav.php:9
 msgid "Publish & Embed"
-msgstr ""
+msgstr "Udgiv"
 
 #: lib/utils/add_header_vars.php:38
 msgid "New Chart"
-msgstr ""
+msgstr "Nyt diagram"
 
 #: lib/utils/add_header_vars.php:61
 msgid "Switch language"
-msgstr ""
+msgstr "Skift sprog"
 
 #: lib/utils/add_header_vars.php:109
 msgid "All charts"
-msgstr ""
+msgstr "Alle diagrammer"
 
 #: lib/utils/add_header_vars.php:134
 msgid "Sign out"
-msgstr ""
+msgstr "Log ud"
 
 #: lib/utils/add_header_vars.php:149
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 #: lib/utils/errors.php:21
 msgid "404 - Page not found"
-msgstr ""
+msgstr "404 - Side ikke fundet"
 
 #: lib/utils/errors.php:22
 msgid ""
@@ -1133,35 +1207,43 @@ msgid ""
 "ensure your URL is spelled correctly. If all else fails, you can visit our "
 "home page at the link below."
 msgstr ""
+"Siden, som du leder efter, findes ikke. Kontrollér adresselinjen for at "
+"sikre at URLen er stavet korret. Hvis alt andet fejler kan du gå til "
+"forsiden ved at følge linket nedenfor."
 
 #: lib/utils/errors.php:28
 msgid "Hold on!"
-msgstr ""
+msgstr "Ro på!"
 
 #: lib/utils/errors.php:29
 msgid ""
 "Sorry, but it seems that the chart you want to see is not quite ready for "
 "the world, yet. Why don't you just relax and wait a minute?"
 msgstr ""
+"Beklager, men det ser ud til at det ønskede diagram ikke er klar endnu. Giv "
+"det et minut og prøv igen."
 
 #: lib/utils/errors.php:38
 msgid "Too late"
-msgstr ""
+msgstr "For sent"
 
 #: lib/utils/errors.php:39
 msgid ""
 "Sorry, but it seems that the chart you want to see has already passed away "
 "because its author decided to delete it."
 msgstr ""
+"Beklager, men det ser ud til at det ønskede diagram er væk fordi forfatteren "
+"har slettet det."
 
 #: lib/utils/errors.php:48
 msgid "Whoops! You're not allowed to publish charts, yet"
-msgstr ""
+msgstr "Ups! Du har ikke adgang til at udgive diagrammer endnu"
 
 #: lib/utils/errors.php:49
 msgid ""
 "Sorry, but it seems that your account is not ready to publish charts, yet."
 msgstr ""
+"Beklager, men din konto er ikke i stand til at udgive diagrammer endnu."
 
 #: lib/utils/errors.php:51
 msgid ""
@@ -1173,70 +1255,76 @@ msgstr ""
 
 #: lib/utils/errors.php:60
 msgid "Whoops! We couldn't find that chart.."
-msgstr ""
+msgstr "Ups! Vi kunne ikke finde diagrammet."
 
 #: lib/utils/errors.php:61
 msgid "Sorry, but it seems that there is no chart with the id <b>"
-msgstr ""
+msgstr "Beklager, men der findes ikke et diagram med det ID"
 
 #: lib/utils/errors.php:68
 msgid "Whoops! That charts doesn't belong to you"
-msgstr ""
+msgstr "Ups! Diagrammet tilhører ikke dig"
 
 #: lib/utils/errors.php:69
 msgid "Sorry, but the requested chart belongs to someone else."
-msgstr ""
+msgstr "Beklager, men det ønskede diagram tilhører en anden."
 
 #: lib/utils/errors.php:71
 msgid "Please check if you're logged in."
-msgstr ""
+msgstr "Kontrollér venligst om du er logget ind."
 
 #: lib/utils/errors.php:79 lib/utils/errors.php:93
 msgid "Whoops! You need to be logged in."
-msgstr ""
+msgstr "Ups! Du skal være logget ind."
 
 #: lib/utils/errors.php:80
 msgid "Good news is, sign up is free and takes less than 20 seconds."
-msgstr ""
+msgstr "Den gode nyhed er, at det er gratis og tager mindre en 20 sekunder."
 
 #: lib/utils/errors.php:86
 msgid "Access denied."
-msgstr ""
+msgstr "Adgang nægtet."
 
 #: lib/utils/errors.php:87
 msgid "You need to be signed in."
-msgstr ""
+msgstr "Du skal være logget ind."
 
 #: lib/utils/errors.php:94
 msgid ""
 "Guess what, in order to edit your user profile, you need to either login or "
 "create yourself an account."
 msgstr ""
+"For at kunne redigere din brugerprofil skal du enten logge ind eller oprette "
+"en konto."
 
 #: lib/utils/errors.php:100
 msgid "Something went horribly wrong"
-msgstr ""
+msgstr "Noget gik grueligt galt"
 
 #: lib/utils/errors.php:101
 msgid "The password reset link you entered is invalid."
-msgstr ""
+msgstr "Det indtastede link til nulstilling af adgangskode er ugyldigt."
 
 #: lib/utils/errors.php:103
 msgid ""
 "Re-check the link you received in our email. Make sure you copied the full "
 "link and try again."
 msgstr ""
+"Kontrollér linket som du modtog pr. mail. Se om du har kopieret hele linket "
+"og prøv igen."
 
 #: lib/utils/errors.php:104
 msgid ""
 "Contact someone of our friendly <a href=\"mailto:hello@datawrapper.de"
 "\">administrators</a> and ask for help with the password reset process."
 msgstr ""
+"Kontakt en af vores venlige <a href=\"mailto:hello@datawrapper.de"
+"\">administratorer</a> og spørg om hjælp med nulstilling af adgangskoden."
 
 #: lib/utils/errors.php:111
 msgid "User not found!"
-msgstr ""
+msgstr "Bruger ikke fundet!"
 
 #: lib/utils/errors.php:112
 msgid "There is no user with the given user id."
-msgstr ""
+msgstr "Der er ingen bruger med det angivne ID>"
