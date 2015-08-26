@@ -508,7 +508,7 @@ msgstr ""
 
 #: scripts/tmpl_cache/chart__upload.twig.php:65
 msgid ""
-"If you just want to try Datawrapper, heres a list of some example datasets "
+"If you just want to try Datawrapper, here's a list of some example datasets "
 "you can use:"
 msgstr ""
 

@@ -59,13 +59,13 @@ msgid "Fill area below line"
 msgstr ""
 
 #: plugins/visualization-line-chart/init.php:109
-msgid "Suggest aspect ratio that banks average line slopes to 45"
+msgid "Suggest aspect ratio that banks average line slopes to 45 degrees"
 msgstr ""
 
 #: plugins/visualization-line-chart/init.php:110
 msgid ""
-"Adjust the chart height so that the lines are banked to 45 (on average). Can "
-"help to avoid exaggerating and understating of slopes."
+"Adjust the chart height so that the lines are banked to 45 degrees (on "
+"average). Can help to avoid exaggerating and understating of slopes."
 msgstr ""
 
 #: plugins/visualization-line-chart/init.php:114
