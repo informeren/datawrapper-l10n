@@ -119,5 +119,5 @@ $poeditParser = new PoeditParser($in);
 $poeditParser->parse();
 
 if (!$poeditParser->toJSON($out)) {
-  echo "Cannor write to file '$out'.\n";
+  echo "Cannot write to file '$out'.\n";
 }
