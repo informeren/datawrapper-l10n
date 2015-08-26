@@ -93,7 +93,7 @@ msgstr "Gør kolonnen sortérbar"
 
 #: plugins/visualization-data-table/plugin.php:81
 msgid "Display content over multiple pages"
-msgstr "Vis indholde over flere sider"
+msgstr "Vis indholdet over flere sider"
 
 #: plugins/visualization-data-table/plugin.php:85
 msgid "Show filter"

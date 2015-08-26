@@ -222,7 +222,7 @@ msgstr "Nuværende adgangskode"
 #: scripts/tmpl_cache/account__password.twig.php:52
 #: scripts/tmpl_cache/messages.twig.php:37
 msgid "For security reasons, please provide your current password."
-msgstr "Af sikkerhedsgrunde skal du angive din nuværende adgangskode."
+msgstr "Af sikkerhedshensyn skal du angive din nuværende adgangskode."
 
 #: scripts/tmpl_cache/account__password.twig.php:59
 msgid "New Password"
@@ -230,7 +230,7 @@ msgstr "Ny adgangskode"
 
 #: scripts/tmpl_cache/account__password.twig.php:68
 msgid "(repeat)"
-msgstr "(gentag)"
+msgstr "Gentag adgangskode"
 
 #: scripts/tmpl_cache/account__password.twig.php:143
 msgid "Congrats! Your password has been changed."
@@ -396,7 +396,7 @@ msgstr "Kolonnetype"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:106
 msgid "auto"
-msgstr "auto"
+msgstr "Auto"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:129
 msgid "Text"
@@ -468,7 +468,7 @@ msgstr "Betydende cifre"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:259
 msgid "Prepend/Append"
-msgstr "Prefix/suffix"
+msgstr "Præfiks/suffiks"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:272
 msgid "Hide column"
@@ -499,7 +499,7 @@ msgstr "Fortsæt"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:314
 msgid "Transpose data table"
-msgstr "Forskyd datatabel"
+msgstr "Rotér tabel"
 
 #: scripts/tmpl_cache/chart__describe.twig.php:318
 msgid "Customize column format"
@@ -546,7 +546,7 @@ msgid ""
 "your computer."
 msgstr ""
 "Vælg dine data (inkl. overskriftsrække/-kolonne) i Excel eller OpenOffice og "
-"indsæt den i tekstfeltet til højre. Du kan også uploade en CSV-fil fra din "
+"indsæt dem i tekstfeltet til højre. Du kan også uploade en CSV-fil fra din "
 "computer."
 
 #: scripts/tmpl_cache/chart__upload.twig.php:58
@@ -555,7 +555,7 @@ msgstr "Lær mere om hvordan du uploader dine data"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:65
 msgid ""
-"If you just want to try Datawrapper, heres a list of some example datasets "
+"If you just want to try Datawrapper, here's a list of some example datasets "
 "you can use:"
 msgstr ""
 "Hvis du bare vil prøve Datawrapper er her en liste af datasæt, som du kan "
@@ -604,11 +604,11 @@ msgstr "Første række der skal vises"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:26
 msgid "Chart type"
-msgstr "Diagramtype"
+msgstr "Type"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:30
 msgid "Refine"
-msgstr "Forfin"
+msgstr "Design"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:34
 msgid "Annotate"
@@ -616,7 +616,7 @@ msgstr "Tilføj noter"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:38
 msgid "Design"
-msgstr "Design"
+msgstr "Layout"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:92
 msgid "Hint"
@@ -1444,3 +1444,10 @@ msgstr "Bruger ikke fundet!"
 #: lib/utils/errors.php:112
 msgid "There is no user with the given user id."
 msgstr "Der er ingen bruger med det angivne ID>"
+
+#~ msgid ""
+#~ "If you just want to try Datawrapper, heres a list of some example "
+#~ "datasets you can use:"
+#~ msgstr ""
+#~ "Hvis du bare vil prøve Datawrapper er her en liste af datasæt, som du kan "
+#~ "bruge:"
