@@ -646,6 +646,9 @@ msgid ""
 "of the following browsers instead. Note that this only applies to the chart "
 "editor. The charts itself can be viewed with any major browser."
 msgstr ""
+"Du bruger en browser som ikke er understøttet i øjeblikket. Brug venligst en "
+"af de følgende browsere i stedet for. Bemærk at dette kun gælder diagram-"
+"editoren. Diagrammerne kan ses i alle moderne browsere."
 
 #: scripts/tmpl_cache/core.twig.php:257
 msgid "Back to top"
@@ -1009,6 +1012,9 @@ msgid ""
 "your new address. Your new email will be set right after you clicked that "
 "link."
 msgstr ""
+"For at færdiggøre skiftet af din e-mail-adresse skal du bekræfte at du har "
+"adgang til den. Derfor har vi sendt en mail med et bekræftelseslink til din "
+"nye adresse. Din adresse bliver skiftet så snart du klikker på linket."
 
 #: lib/api/users.php:213
 #, php-format
@@ -1252,6 +1258,10 @@ msgid ""
 "need to activate you e-mail address by clicking on that activation link we "
 "sent you."
 msgstr ""
+"Hvis du har oprettet diagrammet som gæst skal du <a href=\"#login\">oprette "
+"en gratis konto</a> nu. Hvis du allerede har gjort det mangler du sikkert at "
+"aktivere din e-mail-adresse ved at klikke på linket i den mail, som vi "
+"sendte til dig."
 
 #: lib/utils/errors.php:60
 msgid "Whoops! We couldn't find that chart.."
