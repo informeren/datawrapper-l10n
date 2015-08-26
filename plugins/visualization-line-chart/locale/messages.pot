@@ -118,6 +118,10 @@ msgstr ""
 msgid "Annotate x axis"
 msgstr ""
 
+#: plugins/visualization-line-chart/init.php:157
+msgid "from,to,text"
+msgstr ""
+
 #: plugins/visualization-line-chart/init.php:162
 msgid ""
 "Your chart contains <b>more lines than we can label</b>, so automatic "

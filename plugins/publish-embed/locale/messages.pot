@@ -1,3 +1,35 @@
 #: plugins/publish-embed/plugin.php:13
 msgid "Embed this chart"
 msgstr ""
+
+#: scripts/tmpl_cache/plugins/publish-embed__publish-embed.twig.php:23
+msgid "Embed chart"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/publish-embed__publish-embed.twig.php:34
+msgid "Generating embed code, please stand by..."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/publish-embed__publish-embed.twig.php:40
+msgid "Unable to publish diagram. Please try again."
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/publish-embed__publish-embed.twig.php:47
+msgid "Copy the embed code you need:"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/publish-embed__publish-embed.twig.php:51
+msgid "Textile"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/publish-embed__publish-embed.twig.php:58
+msgid "HTML"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/publish-embed__publish-embed.twig.php:65
+msgid "URL"
+msgstr ""
+
+#: scripts/tmpl_cache/plugins/publish-embed__publish-embed.twig.php:75
+msgid "OK"
+msgstr ""
