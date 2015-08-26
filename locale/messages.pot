@@ -11,10 +11,60 @@ msgstr ""
 msgid "Draft"
 msgstr ""
 
-#: controller/mycharts.php:68 scripts/tmpl_cache/home-login.twig.php:62
+#: controller/mycharts.php:68 controller/account/mycharts.php:6
+#: scripts/tmpl_cache/home-login.twig.php:62
 #: scripts/tmpl_cache/mycharts.twig.php:64
 #: scripts/tmpl_cache/utils.twig.php:241 lib/utils/add_header_vars.php:96
 msgid "My Charts"
+msgstr ""
+
+#: controller/account/activate.php:16 controller/account/set-password.php:16
+#: lib/api/auth.php:169 lib/api/auth.php:204
+msgid ""
+"This activation token is invalid. Your email address is probably already "
+"activated."
+msgstr ""
+
+#: controller/account/activate.php:24
+#, php-format
+msgid "Your email address %s has been successfully activated!"
+msgstr ""
+
+#: controller/account/activate.php:71
+msgid "The invitation token is invalid."
+msgstr ""
+
+#: controller/account/delete.php:5
+msgid "Delete account"
+msgstr ""
+
+#: controller/account/password.php:5
+msgid "Change password"
+msgstr ""
+
+#: controller/account/profile.php:5
+msgid "Edit profile"
+msgstr ""
+
+#: controller/chart/describe.php:11 lib/utils/add_editor_nav.php:7
+msgid "Check & Describe"
+msgstr ""
+
+#: controller/chart/publish.php:19
+msgid "Duplicate this chart"
+msgstr ""
+
+#: controller/chart/publish.php:35
+#: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:292
+msgid "Publish"
+msgstr ""
+
+#: controller/chart/upload.php:17 lib/utils/add_editor_nav.php:6
+msgid "Upload Data"
+msgstr ""
+
+#: controller/chart/visualize.php:11 lib/utils/add_editor_nav.php:8
+msgid "Visualize"
 msgstr ""
 
 #: scripts/tmpl_cache/account__delete.twig.php:35
@@ -566,10 +616,6 @@ msgstr ""
 msgid "Select layout:"
 msgstr ""
 
-#: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:292
-msgid "Publish"
-msgstr ""
-
 #: scripts/tmpl_cache/chart__visualize.twig.php:115
 msgid "Resize to: "
 msgstr ""
@@ -867,12 +913,6 @@ msgstr ""
 msgid "You're account is probably already activated."
 msgstr ""
 
-#: lib/api/auth.php:169 lib/api/auth.php:204
-msgid ""
-"This activation token is invalid. Your email address is probably already "
-"activated."
-msgstr ""
-
 #: lib/api/auth.php:181
 msgid "You have been invited to Datawrapper!"
 msgstr ""
@@ -1067,18 +1107,6 @@ msgid ""
 "Best,\n"
 "Datawrapper\n"
 "\n"
-msgstr ""
-
-#: lib/utils/add_editor_nav.php:6
-msgid "Upload Data"
-msgstr ""
-
-#: lib/utils/add_editor_nav.php:7
-msgid "Check & Describe"
-msgstr ""
-
-#: lib/utils/add_editor_nav.php:8
-msgid "Visualize"
 msgstr ""
 
 #: lib/utils/add_editor_nav.php:9
