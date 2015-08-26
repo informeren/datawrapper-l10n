@@ -140,6 +140,10 @@ msgstr "Lad brugeren ændre skala"
 msgid "Annotate x axis"
 msgstr "Annotér x-akse"
 
+#: plugins/visualization-line-chart/init.php:157
+msgid "from,to,text"
+msgstr "fra,til,tekst"
+
 #: plugins/visualization-line-chart/init.php:162
 msgid ""
 "Your chart contains <b>more lines than we can label</b>, so automatic "

@@ -658,7 +658,7 @@ msgstr "organisationens navn"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:156
 msgid "Source URL"
-msgstr "Kilde-URL"
+msgstr "URL"
 
 #: scripts/tmpl_cache/chart__visualize__sidebar.twig.php:160
 msgid "URL of the dataset"
