@@ -193,8 +193,8 @@ msgid ""
 "Filling out your profile is optional. If you do, you can display these "
 "information below the charts you publish."
 msgstr ""
-"Det er valgfrit at udfylde din profil. Hvis du gør det, kan du vise disse "
-"oplysninger på de diagrammmer, som du udgiver."
+"Det er valgfrit at udfylde din profil. Hvis du gør det, kan du vise "
+"oplysningerne på de diagrammmer, som du udgiver."
 
 #: scripts/tmpl_cache/account__profile.twig.php:60
 msgid "E-Mail"
@@ -226,7 +226,7 @@ msgid ""
 "Optionally you can display these information below you published charts."
 msgstr ""
 "Tilføj en hjemmeside der indeholder flere oplysninger om dig (f.eks. din "
-"blog). Du kan vælge at vise disse oplysninger under de diagrammer, som du "
+"blog). Du kan vælge at vise oplysningerne under de diagrammer, som du "
 "udgiver."
 
 #: scripts/tmpl_cache/account__profile.twig.php:121
