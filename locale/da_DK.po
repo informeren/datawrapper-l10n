@@ -533,7 +533,7 @@ msgstr "Opret et nyt diagram"
 
 #: scripts/tmpl_cache/chart__publish.twig.php:214
 msgid "Return to visualise step"
-msgstr "Tilbage til visualiseringstrinnet"
+msgstr "Tilbage til design"
 
 #: scripts/tmpl_cache/chart__upload.twig.php:52
 msgid "It all starts with your data..."
